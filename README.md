@@ -22,11 +22,13 @@ Hi, I'm Abel Masila, a passionate  frontEnd web engineer from Kenya.
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+<a href="https://masila.ml/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abel-masila&show_icons=true&include_all_commits=true&theme=radical" alt="Abel's github stats" />
+  </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abel-masila&show_icons=true&include_all_commits=true&theme=radical" alt="Abel's github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-masila&layout=compact&theme=radical" />
-
+<a href="https://masila.ml/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-masila&layout=compact&theme=radical" />
+</a>
 <a href="https://masila.ml/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abel-masila&repo=masila.dev&&theme=radical" />
 </a>    
