@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Abel Masila, a passionate  frontEnd web engineer from Kenya.
+Hi, I'm Abel Masila, a passionate  Frontend web engineer from Kenya.
 
 - 🔭 I’m currently working at [X2AI](https://x2ai.com/) as React/GraphQL engineer
 - 🌱 I’m currently learning VueJS & Typescript.
