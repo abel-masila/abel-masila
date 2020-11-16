@@ -1,5 +1,7 @@
 ### Hi there, I'm [Abel!](https://www.masila.ml) 👋
 
+[![coffee](https://img.shields.io/badge/Coffee_level-normal-brightgreen)](https://img.shields.io/badge/Coffee_level-normal-brightgreen)
+
 <a href="https://twitter.com/abel_masila">
   <img align="left" alt="Abel Masila | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
