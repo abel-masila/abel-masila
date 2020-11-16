@@ -2,13 +2,6 @@
 
 [![coffee](https://img.shields.io/badge/Coffee_level-normal-brightgreen)](https://img.shields.io/badge/Coffee_level-normal-brightgreen)
 
-<a href="https://twitter.com/abel_masila">
-  <img align="left" alt="Abel Masila | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-
-<br />
-<br />
-
 Hi, I'm Abel Masila, a passionate  Frontend web engineer from Kenya.
 
 - 🔭 I’m currently working at [X2AI](https://x2ai.com/) as Frontend Engineer
