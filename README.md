@@ -1,4 +1,4 @@
-### Hi there, I'm [Abel!](https://www.masila.ml) 👋
+### Hi there 👋
 
 [![coffee](https://img.shields.io/badge/Coffee_level-normal-brightgreen)](https://img.shields.io/badge/Coffee_level-normal-brightgreen)
 
