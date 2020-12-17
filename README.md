@@ -17,7 +17,7 @@ Hi, I'm [Abel Masila!](https://www.masila.ml/), a passionate Full Stack Web Deve
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool for X2AI Inc :wink: ;
+- 👨🏽‍💻 I’m currently working on cool apps for X2AI Inc :wink: ;
 - 🌱 I’m currently learning Typescript ;
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [@abel_masila](https://twitter.com/abel_masila) ;
