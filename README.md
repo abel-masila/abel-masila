@@ -13,7 +13,7 @@
 
 Hi, I'm [Abel Masila!](https://www.masila.ml/), a passionate Full Stack Web Developer 🚀 from Kenya.
 
-  <img align="right" alt="GIF" src="https://github.com/abel-masila/abel-masila/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abel-masila/abel-masila/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
