@@ -39,10 +39,10 @@ Hi, I'm [Abel Masila!](https://www.masila.ml/), a passionate Full Stack Web Deve
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 57 mins   ███████████████████████▒░   92.98 % 
-CSS          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JavaScript   6 hrs 6 mins    ██████████████████░░░░░░░   72.37 % 
+HTML         1 hr 48 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.45 % 
+CSS          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
