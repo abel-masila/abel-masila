@@ -35,12 +35,3 @@ Hi, I'm [Abel Masila!](https://www.masila.ml/), a passionate Full Stack Web Deve
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   7 hrs 31 mins   ████████████████████████▓   99.02 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
-<!--END_SECTION:waka-->
