@@ -14,7 +14,7 @@
 
 Hi, I'm [Abel Masila!](https://www.masila.ml/), a passionate Full Stack Web Developer 🚀 from Kenya.
 
-<img align="right" alt="GIF" src="https://github.com/abel-masila/abel-masila/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abel-masila/abel-masila/blob/master/code.gif?raw=true" width="400" height="320" />
 
 **Talking about Personal Stuffs:**
 
@@ -23,6 +23,18 @@ Hi, I'm [Abel Masila!](https://www.masila.ml/), a passionate Full Stack Web Deve
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [@abel_masila](https://twitter.com/abel_masila) ;
 - 📝 [Resume](https://drive.google.com/file/d/0B_lP6TceTGwgbGlJUjBoSzhzOEhKZDctOFlSdkcyRjY0QnBN/view?usp=sharing)
+
+```tsx
+import React from 'react';
+
+const Profile: React.FC = () => {
+  return (
+    <h3>A passionate JavaScript engineer from Kenya!</h3>
+  );
+};
+
+export default Profile;
+```
 
 **Languages and Tools:**
 
