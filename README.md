@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/abelmasila">
   <img align="left" alt="Abel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/abel.masila">
-  <img align="left" alt="Abel's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 <br />
 <br />
 
